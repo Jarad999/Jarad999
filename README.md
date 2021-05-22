@@ -1,6 +1,6 @@
-## Hey 👋, I'm [Hyperz!](https://hyperz.dev/)
+## Hey 👋, I'm [Jarad!](https://surge-network.xyz)
 
-<img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logowhite.png" />
+<img align="right" height="60" width="60" alt="" src="http://surge-network.xyz/images/Jarad.gif" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.dev/discord)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://hyperz.dev/youtube)
@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic)
 
-I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I'm currently into Discord Bot Development 🕸️ and working on my Command Handlers and Formatting 🤓.
+
 
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/devingondiscord)
@@ -20,16 +20,10 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 ### Some Highlights:
 
-- 📌 &nbsp; [FiveM HUD Design](https://github.com/Itz-Hyperz/HyperzHudDesign-FiveM)
-- 🚀 &nbsp; [Guardian Discord Whitelist](https://github.com/Jordan2139/Guardian)
-- 🏫 &nbsp; [HyperzFiveM-Base](https://github.com/itz-hyperz/hyperzfivem-base)
-- 🌀 &nbsp; [Universal Commands](https://github.com/Itz-Hyperz/Universal-Commands)
-- 👓 &nbsp; [Utilities Discord Bot](https://github.com/Itz-Hyperz/Hyperz-Utilities-Bot)
-- 💻 &nbsp; [This Github Template](https://github.com/Itz-Hyperz/Itz-Hyperz)
+- 📌 &nbsp; [Basic Partner WebPage](https://github.com/Jarad999/partner-page)
 
 ### Languages and Tools:
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
@@ -41,8 +35,8 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 <p align="left">
 <a href="https://github.com/Itz-Hyperz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jarad999&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jarad999&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
@@ -51,10 +45,10 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- Laptop: HP Pavillion (I have a custom desktop)
-- Browser: Brave Browser
+- Desktop: CLX SET (I have a custom desktop)
+- Browser: Many
 - Code Editor: VSCode - The best editor out there
-- Stay Updated: [YouTube](https://hyperz.dev/youtube), [Discord](https://hyperz.dev/discord), and [Twitter](https://twitter.com/itz_hyperz)
+- Stay Updated: [Hyperz](https://hyperz.dev/youtube), [Discord](https://surge-network.xyz/discord), and [Youtube](https://www.youtube.com/channel/UCEOaIVcj3iAGtfD9BBS6pEQ)
 
 ---
 
