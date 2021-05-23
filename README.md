@@ -2,13 +2,13 @@
 
 <img align="right" height="60" width="60" alt="" src="http://surge-network.xyz/images/Jarad.gif" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://surge-network.xyz/discord)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://jarad.xyz/discord)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCEOaIVcj3iAGtfD9BBS6pEQ)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://surge-network.xyz)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jarad.xyz)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/itz-jarad)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/Jarad999)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Jarad999&label=Views&color=blue&style=plastic)
 
 
 
