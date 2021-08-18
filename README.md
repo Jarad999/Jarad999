@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Jarad!](https://jarad.xyz)
+## Hey 👋, I'm [Jarad](https://jarad.xyz)!
 
 <img align="right" height="60" width="60" alt="" src="http://fire-network.xyz/img/logo.gif" />
 
@@ -10,13 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Jarad999&label=Views&color=blue&style=plastic)
 
-
-
-
-[![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/devingondiscord)
-
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
-
 
 ### Some Highlights:
 
@@ -39,16 +33,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jarad999&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
-
----
-
-### ⚙️ My Resources & Tools:
-
-- OS: Windows 10
-- Desktop: CLX SET (I have a custom desktop)
-- Browser: Many
-- Code Editor: VSCode - The best editor out there
-- Stay Updated: [Hyperz](https://hyperz.dev), [Discord](https://surge-network.xyz/discord), and [Youtube](https://www.youtube.com/channel/UCEOaIVcj3iAGtfD9BBS6pEQ)
 
 ---
 
