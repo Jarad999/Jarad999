@@ -20,7 +20,7 @@
 
 ### Some Highlights:
 
-- 📌 &nbsp; [Basic Partner WebPage](https://github.com/Jarad999/partner-page)
+- 📌 &nbsp; [Fire Network](https://fire-network.xyz)
 
 ### Languages and Tools:
 
