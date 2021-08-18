@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Jarad!](https://jarad.xyz)
 
-<img align="right" height="60" width="60" alt="" src="http://jarad.xyz/Jarad.gif" />
+<img align="right" height="60" width="60" alt="" src="http://fire-network.xyz/img/logo.gif" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://jarad.xyz/discord)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCEOaIVcj3iAGtfD9BBS6pEQ)
