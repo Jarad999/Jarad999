@@ -2,7 +2,7 @@
 
 <img align="right" height="60" width="60" alt="" src="http://fire-network.xyz/img/logo.gif" />
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://fire-network.xyz)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jarad.xyz)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/Jarad999)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Jarad999&label=Views&color=blue&style=plastic)
