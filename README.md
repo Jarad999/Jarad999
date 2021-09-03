@@ -11,7 +11,7 @@
 
 ### Some Highlights:
 
-- 📌 &nbsp; [Fire Network](https://fire-network.xyz)
+- 📌 &nbsp; [My Website](https://jarad.xyz)
 
 ### Languages and Tools:
 
@@ -30,9 +30,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jarad999&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
-
----
-
-<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
 
 ---
