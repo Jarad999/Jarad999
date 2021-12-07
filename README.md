@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Jarad](https://jarad.xyz)!
+## Hey 👋, I'm [Jarad#0999](https://jarad.xyz)!
 
 <img align="right" height="60" width="60" alt="" src="http://fire-network.xyz/img/logo.gif" />
 
