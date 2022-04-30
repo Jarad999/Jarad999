@@ -1,6 +1,6 @@
-## Hey 👋, I'm [Jarad#0999](https://jarad.xyz)!
+## Hey 👋, I'm [Jarad999](https://jarad999.com)!
 
-<img align="right" height="60" width="60" alt="" src="http://fire-network.xyz/img/logo.gif" />
+<img align="right" height="60" width="60" alt="" src="https://avatars.githubusercontent.com/u/70922482?s=96&v=4" />
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jarad.xyz)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/Jarad999)
@@ -11,7 +11,7 @@
 
 ### Some Highlights:
 
-- 📌 &nbsp; [My Website](https://jarad.xyz)
+- 📌 &nbsp; [My Website](https://jarad999.com)
 
 ### Languages and Tools:
 
